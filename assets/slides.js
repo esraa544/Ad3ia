@@ -1,7 +1,7 @@
 "use strict";
 var slide = document.getElementById("slide");
-var upArrow = document.getElementById("upArrow");
-var downArrow = document.getElementById("downArrow");
+var upArrow = document.getElementById("downArrow");
+var downArrow = document.getElementById("upArrow");
 
 let x = 0;
 let width = document.querySelector(".exam-box").offsetWidth;
