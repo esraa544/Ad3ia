@@ -179,8 +179,12 @@ section{
 }
 /*==================== Responsive ====================*/
 @media screen and (min-width: 968px){
+    .exam-box{
+        max-width: 700px;
+        min-height: 590px;
+    }
     .card h2{
-        font-size: 18px
+        font-size: 20px
     }
 }
 @media (max-width: 689px){
