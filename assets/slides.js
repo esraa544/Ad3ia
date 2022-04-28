@@ -5,7 +5,7 @@ var downArrow = document.getElementById("upArrow");
 
 let x = 0;
 let width = document.querySelector(".exam-box").offsetWidth;
-let equation = width * 20;
+let equation = width * 21;
 console.log(width);
 upArrow.addEventListener("click", (e) =>{
     if(x > -equation){
