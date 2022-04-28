@@ -181,10 +181,10 @@ section{
 @media screen and (min-width: 968px){
     .exam-box{
         max-width: 700px;
-        min-height: 590px;
+        min-height: 570px;
     }
     .card h2{
-        font-size: 20px
+        font-size: 22px
     }
 }
 @media (max-width: 689px){
